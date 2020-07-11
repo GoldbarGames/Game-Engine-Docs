@@ -1,0 +1,28 @@
+var class_textbox =
+[
+    [ "Textbox", "class_textbox.html#a73891f38b35148e7b73c7110f7642ff5", null ],
+    [ "~Textbox", "class_textbox.html#a3691c8a226ec90cada4c36466a940ba2", null ],
+    [ "ChangeBoxFont", "class_textbox.html#a49c88e91bbc4f1890ab34872ec5aa49d", null ],
+    [ "ChangeBoxSprite", "class_textbox.html#ad6fa27877e4e4776726bfa44d1a81e5e", null ],
+    [ "ChangeNameFont", "class_textbox.html#a9a61af76714436522c17bad112386835", null ],
+    [ "ChangeNameSprite", "class_textbox.html#a48598744885565f908c2962e1761e512", null ],
+    [ "Render", "class_textbox.html#ab74936c2db971bfd7d801ff4e8d0d4f8", null ],
+    [ "SetCursorPosition", "class_textbox.html#a87c321cd682b4b78ae0c05ae266a59e9", null ],
+    [ "SetCursorPosition", "class_textbox.html#a4f8c73aa387c8b380bcddd24787017de", null ],
+    [ "SetFontSize", "class_textbox.html#aa4f1d26ec89dd5bede4130453a187b7b", null ],
+    [ "UpdateText", "class_textbox.html#ac3238a7f3669210c28b076a60833ae7b", null ],
+    [ "UpdateText", "class_textbox.html#aa3bd02915aa08ff3ce2d94d908e6d2d2", null ],
+    [ "animator", "class_textbox.html#a3aedb1bc1e359ccd095eef2419cff90b", null ],
+    [ "boxObject", "class_textbox.html#ad380ba050dbc5dfed92dcef195a5247a", null ],
+    [ "boxWidth", "class_textbox.html#aaa94d62d60ae9439bd707d5811392523", null ],
+    [ "clickToContinue", "class_textbox.html#a658ecb232ac5019b6a5ed2a053bb2fc1", null ],
+    [ "currentFontInfo", "class_textbox.html#adb06e78bd7a0f26cbf44361c8809cbee", null ],
+    [ "fonts", "class_textbox.html#a056f3f5c1aaaf82515723140caebffff", null ],
+    [ "isReading", "class_textbox.html#a46786f0b68bc76639168d8bac10a20bd", null ],
+    [ "nameObject", "class_textbox.html#aa7ace8cf9383772ce45ad20193861d84", null ],
+    [ "renderer", "class_textbox.html#a500c2500d6f57ddae7b7e0e6666e80e1", null ],
+    [ "shouldRender", "class_textbox.html#a129d8b0dee9b02453885a9e8c00481f0", null ],
+    [ "speaker", "class_textbox.html#a7e35de078bd90c85d8466077f48e20f0", null ],
+    [ "spriteManager", "class_textbox.html#ab34a0a054113485b718d77b62794bbcc", null ],
+    [ "text", "class_textbox.html#a8492790fa2ec41c6062f67724d2df2b3", null ]
+];

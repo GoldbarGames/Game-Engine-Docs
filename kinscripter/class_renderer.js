@@ -1,0 +1,25 @@
+var class_renderer =
+[
+    [ "Renderer", "class_renderer.html#a712a7c1b5fb1192019570300a76cad1e", null ],
+    [ "~Renderer", "class_renderer.html#afeee408862d5bd6255a6882d47e6d5cd", null ],
+    [ "CalculateScale", "class_renderer.html#a3f920fa7438e770014dda1791976a944", null ],
+    [ "CalculateScale", "class_renderer.html#ad664b69fa133e9c3de3dec1b7bfa6898", null ],
+    [ "CreateShader", "class_renderer.html#a6c4f38df8df3a677bc63e130220206ae", null ],
+    [ "FadeOverlay", "class_renderer.html#a0234302944e76c115d705768a1f0b1f4", null ],
+    [ "IsVisible", "class_renderer.html#af031124c6b1f497dfe655a163ed598f4", null ],
+    [ "ToggleVisibility", "class_renderer.html#a9d98bdf5804380bdb5881d0af0855d11", null ],
+    [ "Update", "class_renderer.html#a7cbd30dabcc6cd3b977ae647f6d3f23c", null ],
+    [ "camera", "class_renderer.html#a5ab9bab1dc117572aebc39a7b0d8c15b", null ],
+    [ "changingOverlayColor", "class_renderer.html#a85087d1798428ea5d627e994767e78cd", null ],
+    [ "debugSprite", "class_renderer.html#addebac201892b43360a1d7ffcc8dfc15", null ],
+    [ "drawCallsPerFrame", "class_renderer.html#a39cac223160f77477c40305af116406a", null ],
+    [ "game", "class_renderer.html#af6466b9d730ed9b55b111afc55000db1", null ],
+    [ "guiCamera", "class_renderer.html#a05f3d4e2a0d0de3d27d211470332a8d1", null ],
+    [ "now", "class_renderer.html#aa5fc9c77651ed62d5890d7c29a33d845", null ],
+    [ "overlayColor", "class_renderer.html#a005eebdf9f7ae160a9e5c49a109328e3", null ],
+    [ "overlaySprite", "class_renderer.html#a165545bbf1a404616bf19a1514b16b58", null ],
+    [ "screenScale", "class_renderer.html#ae0dc3c1a966686e882d203202bb91662", null ],
+    [ "shaders", "class_renderer.html#aab5c07b60892096cd119e1a0fe5deeea", null ],
+    [ "targetColor", "class_renderer.html#a7b6bd7785b0c00053357bdc8ec9236e0", null ],
+    [ "timerOverlayColor", "class_renderer.html#a140c670c6416117d0a96321122dc3160", null ]
+];

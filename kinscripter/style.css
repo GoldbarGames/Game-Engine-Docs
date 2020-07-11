@@ -1,0 +1,21 @@
+body, table, div, p, dl
+{
+	color: white;
+	background-color: black;
+}
+
+.title
+{
+	color: white;
+	background-color: black;
+}
+
+.nav-tree
+{	
+	background-color: black;
+}
+
+a.nav-tree
+{
+	color: yellow;
+}

@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['randomnumbervariable_1493',['RandomNumberVariable',['../class_cutscene_commands.html#a1032a50f35313967afa5f1d429bd24c5',1,'CutsceneCommands']]],
+  ['readanimdata_1494',['ReadAnimData',['../class_sprite_manager.html#a4228b5eeb8542f956ae4b3a4d9a11a0c',1,'SpriteManager::ReadAnimData(std::string dataFilePath, std::vector&lt; AnimState * &gt; &amp;animStates)'],['../class_sprite_manager.html#ac2edc517c8f6d28cafa6b34e1627bfac',1,'SpriteManager::ReadAnimData(std::string dataFilePath, std::vector&lt; AnimState * &gt; &amp;animStates, std::unordered_map&lt; std::string, std::string &gt; &amp;args)']]],
+  ['readbacklog_1495',['ReadBacklog',['../class_cutscene_manager.html#a56c6064919c409f9da26791ac155e39e',1,'CutsceneManager']]],
+  ['readfile_1496',['ReadFile',['../class_shader_program.html#ae1362cbcd49c9d642ff38c166502db02',1,'ShaderProgram']]],
+  ['readlevelfromfile_1497',['ReadLevelFromFile',['../class_editor.html#a2b0ac3d476e787e1121be846457009e2',1,'Editor']]],
+  ['readnextline_1498',['ReadNextLine',['../class_cutscene_manager.html#a0c89d14fc12bbab9bcec8b58e58a1255',1,'CutsceneManager']]],
+  ['redoaction_1499',['RedoAction',['../class_editor.html#a761212c43ecadcb9dcc761eb50027ad2',1,'Editor']]],
+  ['removepointfrompath_1500',['RemovePointFromPath',['../class_path.html#ad43b25a5e431ec50a2ec46e7918eeec2',1,'Path']]],
+  ['render_1501',['Render',['../class_background.html#a2f107a4e6abe61e74eb75018e0c4cc11',1,'Background::Render()'],['../class_background_layer.html#a8cc0da5f0bbc5960a2d992fd4decc668',1,'BackgroundLayer::Render()'],['../class_base_button.html#ac81d85fb85a76ef270871b5135299bd0',1,'BaseButton::Render()'],['../class_block.html#a75f339bada91eec02c0845411d1f3cf3',1,'Block::Render()'],['../class_cutscene_manager.html#a207584f2ece837304ddfab4db1cd8063',1,'CutsceneManager::Render()'],['../class_editor.html#ad8e8a15d650ef4f3458f20613ec0692b',1,'Editor::Render()'],['../class_editor_button.html#ac5dacf3948e7d8e247dbce8ce3c4d6e7',1,'EditorButton::Render()'],['../class_entity.html#acc8d80f837537d4e8da3efd52598171c',1,'Entity::Render()'],['../class_game.html#a0897730fc9fed789f6c0f11d21a0c14a',1,'Game::Render()'],['../class_ladder.html#a93e682dbef9505eaf596e334e25804e0',1,'Ladder::Render()'],['../class_menu_button.html#a9aeca5f0959ddf00be1ec9375c6a2dd8',1,'MenuButton::Render()'],['../class_menu_screen.html#af4551890f301a508a42f0afb162680a8',1,'MenuScreen::Render()'],['../class_path.html#ae979a27e9d9c2578525dc8754ae5b853',1,'Path::Render()'],['../class_platform.html#ac9ceedeba888e8987fd4e62328927162',1,'Platform::Render()'],['../class_player.html#a67b4027b76b8d69992eb6f7573418ea3',1,'Player::Render()'],['../class_settings_button.html#a6244bfc6611809634c149a5b2bb44885',1,'SettingsButton::Render()'],['../class_sprite.html#a42f39a3f287d506457edfe62da123a78',1,'Sprite::Render(Vector2 position, Renderer *renderer)'],['../class_sprite.html#a1acda00da56db6bd25e927464b4a0b7e',1,'Sprite::Render(Vector2 position, int speed, Uint32 time, SDL_RendererFlip flip, Renderer *renderer, glm::vec3 rotation)'],['../class_text.html#a97f101c743c02d5de67953af7fd70d32',1,'Text::Render(Renderer *renderer)'],['../class_text.html#ade5ffae2a9a94be2b3c243a59bdd11ad',1,'Text::Render(Renderer *renderer, Vector2 offset)'],['../class_textbox.html#ab74936c2db971bfd7d801ff4e8d0d4f8',1,'Textbox::Render()']]],
+  ['renderdebug_1502',['RenderDebug',['../class_editor.html#af7c523b53df039e7d1f1b614402eef51',1,'Editor::RenderDebug()'],['../class_entity.html#ae420c9377d8ab44641c3e3ed8f4dbada',1,'Entity::RenderDebug()']]],
+  ['renderer_1503',['Renderer',['../class_renderer.html#a712a7c1b5fb1192019570300a76cad1e',1,'Renderer']]],
+  ['rendermesh_1504',['RenderMesh',['../class_mesh.html#a75ccdfd3c16df862abb90d6046abcdb4',1,'Mesh']]],
+  ['renderparallax_1505',['RenderParallax',['../class_entity.html#a68e8949ee98ee7dab71786cf9503b179',1,'Entity']]],
+  ['reset_1506',['Reset',['../class_timer.html#ae7c0c1e7d12de4b8a6e7c64e451cdd2a',1,'Timer']]],
+  ['resetbackground_1507',['ResetBackground',['../class_background.html#afa58808680b4a3faf1eb1d470441346a',1,'Background']]],
+  ['resetcamera_1508',['ResetCamera',['../class_camera.html#a163c8079efbe480b1f95491a1f9e2663',1,'Camera']]],
+  ['resetgame_1509',['ResetGame',['../class_cutscene_commands.html#a8d4a6823f25971dd836211db33cacb49',1,'CutsceneCommands']]],
+  ['resetposition_1510',['ResetPosition',['../class_player.html#a66e226836bf4d6cd206716caeb232094',1,'Player']]],
+  ['resetprojection_1511',['ResetProjection',['../class_camera.html#a95962cdbf68bae065dd34d4d2495de59',1,'Camera']]],
+  ['resettext_1512',['ResetText',['../class_game.html#a2a2e6547d511878be35e95436257be75',1,'Game']]],
+  ['returnfromsubroutine_1513',['ReturnFromSubroutine',['../class_cutscene_commands.html#a0cc420b26f80f184ff507644bf9093ad',1,'CutsceneCommands']]],
+  ['rightclick_1514',['RightClick',['../class_editor.html#a8a183458f112d4e3e0286915f345fbb0',1,'Editor']]],
+  ['roundtoint_1515',['RoundToInt',['../class_vector2.html#aaca04ef5d142ffa888a0a0e2d17b1376',1,'Vector2::RoundToInt()'],['../_vector2_8h.html#a9e4ab8efc6ddb973f168a2951ba89b15',1,'RoundToInt():&#160;Vector2.h']]],
+  ['rtrim_1516',['RTrim',['../globals_8h.html#aaf7afaced6f54eda3d8d2073f5cfd898',1,'globals.h']]],
+  ['runtest_1517',['RunTest',['../class_test.html#adbc5eb699e1be4628e6fb87221eb9d89',1,'Test']]]
+];
